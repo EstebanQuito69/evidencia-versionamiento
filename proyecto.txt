@@ -1,1 +1,4 @@
 Proyecto de prueba de control de versiones.
+Segunda versión del proyecto.
+Se realizó una modificación para demostrar el funcionamiento del control de versiones con Git.
+
